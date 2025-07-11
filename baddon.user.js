@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Baddonz NI
+// @name         B/addons NI
 // @version      1.1
 // @description  Menadżer dodatków by besiak
 // @author       besiak
